@@ -6,7 +6,7 @@ Replication of the old arcade type of Snake Game mostly found in old Nokia Phone
 <li>Eat a fruit and the score increases by 1, which is shown on the Right side</li>
 <li>The Game Restarts if the snake hits a wall or snake hits itself</li>
 </ul>
-## Download And Usage
+## Download-And-Usage
 <ol>
 <li>Download all the 3 files, which are HTML,CSS and JS files.</li>
 <li>Store all of the 3 files in the same directory.</li>
